@@ -1,0 +1,50 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 221, 122);
+
+}
+.foto{
+    background-image: url(assent/imgs/planta.jpg);
+    height: 6em;
+    background-position: center;
+    background-size: cover;
+    padding: 1em;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+
+}
+.foto h1{
+    margin: 0px;
+    font-weight: 400;
+}
+.top{
+    text-shadow: 0 0 5px rgb(200, 243, 208);
+    font-size: 1.5em;
+    text-align: center;
+    
+    }
+.tam{
+    width: 15em;
+}
+.product{
+    width: 80%;
+    margin: auto;
+}
+.product td{
+    width: 50%;
+    padding: 2em;
+}
+.product img{
+    width: 100%;
+    border: solid 0,5px rgb(0, 0, 0);
+}
+.pie{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(58, 8, 106);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
